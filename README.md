@@ -155,7 +155,8 @@ Me chamo Gabriel Carapiá Contardi, tenho 23 anos e sou natural de São Paulo. C
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      width=: "100px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-carapia&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
