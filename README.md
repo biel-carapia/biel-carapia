@@ -4,6 +4,8 @@
 
 Me chamo Gabriel Carapiá Contardi, tenho 23 anos e sou natural de São Paulo. Conclui o ensino médio no Colégio Palavra Viva. Atualmente, estou curando Arquitetura de dados na Anhanguera. Semrpe fui apaixonado por tecnologia e os avanços que ela trás para nossa sociedade. Por aqui estarei compartilhando meus conhecimentos e minha jornada academica. Um pequeno detalhe é que já possuo um conhecimento sobre linguagens de programação, documentações necessárias para criação de projeto e sobre o escopo base para estrutura e construção de bases de dados. Tudo isso porque já cursei 3 anos de ciências da computação na faculdade SPTECH. Através do meu LinkedIn "[Gabriel Carapiá](http://linkedin.com/in/gabriel-carapi%C3%A1-contardi-04273a233/)", estarei compartilhando informções sobre meus conhecimentos e aprendizados.
 
+My name is Gabriel Carapiá Contardi, I have 23 years and from of São Paulo. I finished high school at Colégio Palavra Viva. I am currently studying Data Architecture at Anhanguera. I have always been passionate about technology and the advances it brings to our society. Here I will be sharing my knowledge and my academic journey. A small detail is that I already have knowledge about programming languages, documentation necessary for creating a project and the basic scope for structuring and building databases. All this because I have already studied computer science for 3 years at SPTECH College. Through my LinkedIn "[Gabriel Carapiá](http://linkedin.com/in/gabriel-carapi%C3%A1-contardi-04273a233/)", I will be sharing information about my knowledge and learning.
+
 <p align="left">
     <a href="https://github.com/biel-carapia?tab=repositories&sort=stargazers">
         <img 
